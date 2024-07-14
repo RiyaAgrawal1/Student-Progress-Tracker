@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'authapp',
     'crispy_forms',
-        'google_translate',
 
     'school',
     'teacher',
